@@ -1,8 +1,5 @@
 本项目所有app下载目录（百度云）：
-
-链接：https://pan.baidu.com/s/1miLWCJI#list/path=%2F
-
-密码： que2
+http://pan.baidu.com/s/1nuU1YFf
 
 > - 注：如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
 > - 本项目会在可预知的时间内不断更新
