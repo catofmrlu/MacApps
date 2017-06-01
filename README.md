@@ -1,8 +1,11 @@
 本项目所有app下载目录（百度云）：
-http://pan.baidu.com/s/1nuU1YFf
+
+链接：[http://pan.baidu.com/s/1nuU1YFf](http://pan.baidu.com/s/1nuU1YFf)
+
+
 
 > - 注：如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
-> - 本项目会在可预知的时间内不断更新
+> - 本项目会在可预知的未来内不断更新
 
 ------
 
@@ -42,3 +45,4 @@ http://pan.baidu.com/s/1nuU1YFf
 - Downcast（破解版）
 - Boom V2.0
 - Ulysses（破解版）
+- ​
