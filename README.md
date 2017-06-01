@@ -44,5 +44,4 @@
 - 迅雷（破解年会员版）
 - Downcast（破解版）
 - Boom V2.0
-- Ulysses（破解版）
-- ​
+- Ulysses（破解版）​
