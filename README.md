@@ -2,14 +2,12 @@
 
 链接：[http://pan.baidu.com/s/1nuU1YFf](http://pan.baidu.com/s/1nuU1YFf)
 
-
-
 > - 注：如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
 > - 本项目会在可预知的未来内不断更新
 
 ------
-
-当前已收集app列表：
+当前已收集app列表： 
+> 注：可通过command+f(Mac)或Ctrl+f(Windows)来快速查找需要的app是否包含。
 
 - Alfred V3.3（10.12.5可用）
 - 在线电视播放器 V5.4
