@@ -43,5 +43,6 @@
 - Downcast（破解版）
 - Boom V2.0
 - Ulysses（破解版）
-- Things 3
+- Things 2.8
 - Adobe CC 2017套件
+- Reader 3.0
