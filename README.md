@@ -46,4 +46,4 @@
 - Things 2.8
 - Adobe CC 2017套件
 - Reader 3.0
-- Clean my mac 3.8.4
+- Clean my mac 3.8.4（由于官方添加了破解检查系统，会在一段时间内强制退出，建议支持正版）
