@@ -29,7 +29,7 @@
 - movist
 - Logoist V2.0.2
 - Leaf V5.0
-- Final Cut Pro
+- Final cut pro x 10.3.4
 - Duet Display
 - Dreamweaver CS6
 - Cornerstone
