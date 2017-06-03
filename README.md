@@ -46,3 +46,4 @@
 - Things 2.8
 - Adobe CC 2017套件
 - Reader 3.0
+- Clean my mac 3.8.4
