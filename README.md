@@ -54,7 +54,7 @@
 - 1Password V6.6.1
 - Team viewer
 - Photoshop插件系列（更新中）
-- Final Cut Pro X插件（更新中）
+- Final Cut Pro X插件系列（更新中）
 
 ---
 ### 游戏类
