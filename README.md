@@ -60,3 +60,56 @@
 ### 游戏类
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
+- 使命召唤8：现代战争3（中文版）
+- 机械迷城（中文版）
+- 将军之刃
+- 红色警戒共和国之辉（3D版）
+- 火影忍者究极风暴革命
+- 空中楼阁
+- 龙珠：超宇宙
+- 美丽水世界
+- 三位一体3：权力圣器
+- 山脊赛车无限
+- 上古卷轴5（中文版）
+- 使命召唤2
+- 以撒的结合羔羊的愤怒
+- 勇敢的心：世界大战
+- 战锤40K战争黎明2惩罚
+- 战锤40K战争黎明2混沌崛起
+- 植物精灵
+- 风语世界2沉寂
+- tombaider
+- This War of Mine Anniversary Edition
+- Terraria.1.3.0.8.for.Mac-Game333
+- Silent Hill 2R
+- Samorost3
+- Need For Speed Hot Pursuit
+- Left.4.Dead.2.v1.0_NMac.to
+- Hybrid Wars
+- Life Is Strange™ Segments
+- SimCity（模拟城市）5 Segments
+- Valiant Hearts The Great War Segments
+- 超级房车赛：汽车运动中文版
+- 火影忍者（未知）
+- 魔幻三杰2Trine2中文版
+- 生化危机6中文版 Segments
+- 新的开始
+- 战2
+- Aquaria
+- Assassin's Creed 2 HyperTsunaz
+- BFBC2
+- braid for mac
+- Deponia.The.Complete.Journey.MacOSX-ACTiVATED
+- FEZ.v1.00.MacOSX
+- 迷失之地
+- 蜡烛
+- LIMBO (地狱边境) for Mac 1.1 原生中文破解版
+
+---
+#### 更多mac下载站推荐：
+
+- 史蒂芬孙的博客想（免费，推荐）：http://www.sdifen.com/
+- mac小站（会员费28，不推荐）：http://maccrack.cn/
+
+
+
