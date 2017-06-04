@@ -9,6 +9,9 @@
 当前已收集app列表： 
 > 注：可通过command+f(Mac)或Ctrl+f(Windows)来快速查找需要的app是否包含。
 
+---
+### 应用类：
+
 - Alfred V3.3（10.12.5可用）
 - 在线电视播放器 V5.4
 - Spectacle
@@ -36,7 +39,6 @@
 - CAD 2016
 - better zip
 - App cleaner
-- 瘟疫公司（Plague.inc.Evolved）V1.0
 - Jitouch V2.71
 - Day One
 - 迅雷（破解年会员版）
@@ -51,3 +53,10 @@
 - Bartender：菜单栏管理
 - 1Password V6.6.1
 - Team viewer
+- Photoshop插件系列（更新中）
+- Final Cut Pro X插件（更新中）
+
+---
+### 游戏类
+
+- 瘟疫公司（Plague.inc.Evolved）V1.0
