@@ -43,11 +43,11 @@
 - Downcast（破解版）
 - Boom V2.0
 - Ulysses（破解版）
-- Things 2.8
+- Things V2.8
 - Adobe CC 2017套件
-- Reader 3.0
+- Reader V3.0
 - Clean my mac 3.8.4（使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）
-- Logic Pro X 10.3.1
+- Logic Pro X V10.3.1
 - Bartender：菜单栏管理
-- 1Password：密码管理
+- 1Password V6.6.1
 - Team viewer
