@@ -110,6 +110,5 @@
 
 - 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
 - mac小站（会员费28，不推荐）：http://maccrack.cn/
-
-
+- 玩转苹果（会员费59，不推荐）：http://www.ifunmac.com/
 
