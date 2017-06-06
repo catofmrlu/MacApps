@@ -66,7 +66,7 @@
 ---
 ### 游戏类
 
-> 解压密码：www.konami.cc 或 konami.cc
+> 如需要密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
 - 使命召唤8：现代战争3（中文版）
