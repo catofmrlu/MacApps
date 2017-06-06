@@ -12,6 +12,8 @@
 ---
 ### 应用类：
 
+> 如安装时需要密码：maccrack.cn
+
 - Alfred V3.3（10.12.5可用）
 - 在线电视播放器 V5.4
 - Spectacle
@@ -55,9 +57,16 @@
 - Team viewer
 - Photoshop插件系列（更新中）
 - Final Cut Pro X插件系列（更新中）
+- After effects CC 2017
+- iStat Menus：硬件监测
+- Lightroom CC 6.10
+- Sublime Text 3129
+- snip 2.0
 
 ---
 ### 游戏类
+
+> 解压密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
 - 使命召唤8：现代战争3（中文版）
