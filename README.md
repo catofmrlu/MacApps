@@ -26,10 +26,10 @@
 - Autodesk Maja 2017
 - VR Desktop
 - PS CS6
-- PS 2017
+- PS V2017
 - Paste V2.2.1
 - Parallels Desktop 12
-- office 2016
+- office V2016
 - ntfs4mac V14.2.359
 - movist
 - Logoist V2.0.2
@@ -38,7 +38,7 @@
 - Duet Display
 - Dreamweaver CS6
 - Cornerstone
-- CAD 2016
+- CAD V2016
 - better zip
 - App cleaner
 - Jitouch V2.71
@@ -57,11 +57,12 @@
 - Team viewer
 - Photoshop插件系列（更新中）
 - Final Cut Pro X插件系列（更新中）
-- After effects CC 2017
+- After effects CC V2017
 - iStat Menus：硬件监测
-- Lightroom CC 6.10
-- Sublime Text 3129
-- snip 2.0
+- Lightroom CC V6.10
+- Sublime Text V3129
+- snip V2.0
+-  Doo V2.0.1
 
 ---
 ### 游戏类
