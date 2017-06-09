@@ -62,8 +62,11 @@
 - Lightroom CC V6.10
 - Sublime Text V3129
 - snip V2.0
--  Doo V2.0.1
+- Doo V2.0.1
 - Airmail V3.2.3
+- Launchey V1.2.2
+- WMF Converter Pro V3.4.2
+
 ---
 ### 游戏类
 
