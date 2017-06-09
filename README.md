@@ -2,8 +2,10 @@
 
 链接：[http://pan.baidu.com/s/1nuU1YFf](http://pan.baidu.com/s/1nuU1YFf)
 
-> - 注：如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
+> - 注：
+> - 如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
 > - 本项目会在可预知的未来内不断更新
+> - 破解软件不建议升级，以防出现破解失效
 
 ------
 当前已收集app列表： 
