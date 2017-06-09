@@ -68,6 +68,7 @@
 - Airmail V3.2.3
 - Launchey V1.2.2
 - WMF Converter Pro V3.4.2
+- OmniPlan V3.7
 
 ---
 ### 游戏类
