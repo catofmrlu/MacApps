@@ -69,6 +69,9 @@
 - Launchey V1.2.2
 - WMF Converter Pro V3.4.2
 - OmniPlan V3.7
+- Chronicle V7.0.0
+- UninstallPKG V1.0.26
+- Orion Flyer Maker Pro V3.03.2
 
 ---
 ### 游戏类
@@ -119,8 +122,7 @@
 - FEZ.v1.00.MacOSX
 - 迷失之地
 - 蜡烛
-- LIMBO (地狱边境) for Mac 1.1 原生中文破解版
-- WMF Converter Pro 3.4.2
+- LIMBO (地狱边境) for Mac V1.1 原生中文破解版
 
 ---
 #### 更多mac下载站推荐：
