@@ -71,8 +71,9 @@
 - OmniPlan V3.7
 - Chronicle V7.0.0
 - UninstallPKG V1.0.26
-- Orion Flyer Maker Pro V3.03.2
-
+- **Orion Flyer Maker Pro V3.03.2**
+- **NewFileMenu V1.3.1**：允许你从 Finder 右键菜单中快速创建各种文件
+- **Boom 3D V1.0**：音效增强软件，它可以大大提高我们Mac的音质
 ---
 ### 游戏类
 
