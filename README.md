@@ -54,7 +54,7 @@
 - Reader V3.0
 - Clean my mac 3.8.4（使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）
 - Logic Pro X V10.3.1
-- Bartender：菜单栏管理
+- **Bartender**：菜单栏管理工具
 - 1Password V6.6.1
 - Team viewer
 - Photoshop插件系列（更新中）
@@ -71,9 +71,11 @@
 - OmniPlan V3.7
 - Chronicle V7.0.0
 - **UninstallPKG V1.0.26**：一款pkg文件删除工具
-- **Orion Flyer Maker Pro V3.03.2**
+- **Orion Flyer Maker Pro V3.03.2**：一款专业的海报传单设计软件
 - **NewFileMenu V1.3.1**：允许你从 Finder 右键菜单中快速创建各种文件
 - **Boom 3D V1.0**：音效增强软件，它可以大大提高我们Mac的音质
+- **Komodo IDE V10.0.1**:为Tcl/Python/Perl/Ruby脚本语言准备的最强大的开发工具
+- **Wirecast 7.4.0 TNT**：一款可以方便采集和制作用于网上直播的多机位现场视频的软件
 ---
 ### 游戏类
 
