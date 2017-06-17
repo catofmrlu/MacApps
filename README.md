@@ -76,6 +76,8 @@
 - **Boom 3D V1.0**：音效增强软件，它可以大大提高我们Mac的音质
 - **Komodo IDE V10.0.1**:为Tcl/Python/Perl/Ruby脚本语言准备的最强大的开发工具
 - **Wirecast 7.4.0 TNT**：一款可以方便采集和制作用于网上直播的多机位现场视频的软件
+- **Astropad V2.0.5**：一款能够将iPad/iPhone变为Mac手写板的软件
+- **GraphicConverter V10.4.2**：一款快速浏览图片以及具有简单的编辑和处理功能的软件
 ---
 ### 游戏类
 
