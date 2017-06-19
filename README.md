@@ -8,7 +8,7 @@
 > - 破解软件不建议升级，以防出现破解失效
 
 ------
-当前已收集app列表： 
+快速查找需要的app： 
 > 注：可通过command+f(Mac)或Ctrl+f(Windows)来快速查找需要的app是否包含。
 
 ---
@@ -137,4 +137,3 @@
 - 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
 - mac小站（会员费28，不推荐）：http://maccrack.cn/
 - 玩转苹果（会员费59，不推荐）：http://www.ifunmac.com/
-
