@@ -1,7 +1,3 @@
-本项目所有app下载目录（百度云）：
-
-链接：[http://pan.baidu.com/s/1gf9qHWn](http://pan.baidu.com/s/1gf9qHWn)
-
 **注：**
 > - 如有兼容及其它问题请发email到lxxlxx8888@outlook.com告知，会及时处理
 > - 本项目会在可预知的未来内不断更新
@@ -14,6 +10,7 @@
 ---
 ### 应用类：
 
+应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
 > 如安装时需要密码：maccrack.cn
 
 - Alfred V3.3（10.12.5可用）
@@ -84,6 +81,7 @@
 ---
 ### 游戏类
 
+游戏类下载地址：http://pan.baidu.com/s/1nuGVPcX
 > 如需要密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
