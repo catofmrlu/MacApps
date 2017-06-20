@@ -1,4 +1,11 @@
-**注：**
+**目录**
+
+[TOC]
+
+---
+
+注：
+
 > - 如有兼容及其它问题（链接失效等）请发email到lxxlxx8888@outlook.com告知，会及时处理
 > - 本项目会在可预知的未来内不断更新
 > - 破解软件不建议升级，以防出现破解失效
@@ -8,7 +15,7 @@
 > 注：可通过command+f(Mac)或Ctrl+f(Windows)来快速查找需要的app是否包含。
 
 ---
-### 应用类：
+### 1. 应用类：
 
 应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
 > 如安装时需要密码：maccrack.cn
@@ -79,7 +86,7 @@
 - **Principle V2.1.5**：一款交互设计软件
 - **Launcher V1.2.3**：一款快速启动软件，你可以自定义软件到菜单栏，并为之设置快捷键，快速打开软件。
 ---
-### 游戏类
+### 2. 游戏类
 
 游戏类下载地址：http://pan.baidu.com/s/1nuGVPcX
 > 如需要密码：www.konami.cc 或 konami.cc
@@ -131,8 +138,14 @@
 - LIMBO (地狱边境) for Mac V1.1 原生中文破解版
 
 ---
-#### 更多mac下载站推荐：
+### 3. mac下载站推荐
 
 - 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
 - mac小站（会员费28，不推荐）：http://maccrack.cn/
 - 玩转苹果（会员费59，不推荐）：http://www.ifunmac.com/
+
+---
+
+### 4. mac常见问题
+
+- ------
