@@ -150,7 +150,7 @@ MacApps
 
 - **关于提示已损坏的解决方法**
 
-  ![屏幕快照 2017-06-25 下午1.22.46](https://ws2.sinaimg.cn/large/006tKfTcgy1fgxdwq7rh4j30y00d876f.jpg)
+  ![屏幕快照 2017-06-25 下午1.22.46](https://ws3.sinaimg.cn/large/006tKfTcgy1fgxe0hhiszj30dj059aac.jpg)
 
 - **mac破解百度云下载限制的方法**
 
