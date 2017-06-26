@@ -84,6 +84,7 @@ MacApps
 - **MWeb V2.1.6 MAS TNT** :一款markdown编辑器，主打博客文章写作
 - **Alternote V1.0.10** :mac下的第三方印象笔记客户端，支持简单的markdown语法
 - **Latexian V1.2.7**：它被用于创建和排版latex文档上，可以预览正在编辑中的文档排版
+- **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议。
 
 ---
 ### 2. 游戏类
@@ -156,5 +157,11 @@ MacApps
 
   chrome中下载baidudl插件，在百度云网页版要下载的文件页面点击插件，然后点击要下载的文件后的Generate，再点击copy复制下载链接，然后去迅雷试试吧。
 
+- **macOS High Sierra最新测试版**
+
+  - 商店：https://itunes.apple.com/cn/app/macos-high-sierra-beta/id1209167288?mt=12
+  - beta2种子：https://page49.ctfile.com/fs/1855249-208967829
+
 - ​
+
 
