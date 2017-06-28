@@ -84,7 +84,9 @@ MacApps
 - **MWeb V2.1.6 MAS TNT** :一款markdown编辑器，主打博客文章写作
 - **Alternote V1.0.10** :mac下的第三方印象笔记客户端，支持简单的markdown语法
 - **Latexian V1.2.7**：它被用于创建和排版latex文档上，可以预览正在编辑中的文档排版
-- **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议。
+- **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议
+- **Backgrounds V1.4.7**：一款系统增强及美化软件,可以让桌面动态信息显示、将视频作为动态桌面、当iTunes播放音乐的时候显示音乐专辑等等
+- **2Do V2.3.2** ：一款极简易用的任务管理软件
 
 ---
 ### 2. 游戏类
