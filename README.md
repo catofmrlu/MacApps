@@ -17,8 +17,6 @@ MacApps
 > 如安装时需要密码：maccrack.cn或xclient.info
 
 - Alfred V3.3（10.12.5可用）
-
-
 - 在线电视播放器 V5.4
 - Spectacle
 - VMware Fusion V8.5.3
@@ -95,7 +93,7 @@ MacApps
 ### 2. 游戏类
 
 游戏类下载地址：http://pan.baidu.com/s/1nuGVPcX
-> 如需要密码：www.konami.cc 或 konami.cc
+> 如需要密码：www.konami.cc或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
 - 使命召唤8：现代战争3（中文版）
