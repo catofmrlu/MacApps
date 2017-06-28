@@ -14,9 +14,11 @@ MacApps
 ### 1. 应用类：
 
 应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
-> 如安装时需要密码：maccrack.cn
+> 如安装时需要密码：maccrack.cn或xclient.info
 
 - Alfred V3.3（10.12.5可用）
+
+
 - 在线电视播放器 V5.4
 - Spectacle
 - VMware Fusion V8.5.3
@@ -87,6 +89,7 @@ MacApps
 - **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议
 - **Backgrounds V1.4.7**：一款系统增强及美化软件,可以让桌面动态信息显示、将视频作为动态桌面、当iTunes播放音乐的时候显示音乐专辑等等
 - **2Do V2.3.2** ：一款极简易用的任务管理软件
+- **Things V3.0.3**：一款优秀的GTD任务管理工具
 
 ---
 ### 2. 游戏类
