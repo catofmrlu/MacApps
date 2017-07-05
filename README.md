@@ -162,13 +162,16 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ### 4. mac常见问题
 
 - **关于提示已损坏的解决方法**
-  ![屏幕快照 2017-06-25 下午1.22.46](https://ws3.sinaimg.cn/large/006tKfTcgy1fgxe0hhiszj30dj059aac.jpg)
+
+![屏幕快照 2017-06-25 下午1.22.46](https://ws3.sinaimg.cn/large/006tKfTcgy1fgxe0hhiszj30dj059aac.jpg)
 
 - **mac破解百度云下载限制的方法**
-  chrome中下载baidudl插件，在百度云网页版要下载的文件页面点击插件，然后点击要下载的文件后的Generate，再点击copy复制下载链接，然后去迅雷试试吧。
+
+chrome中下载baidudl插件，在百度云网页版要下载的文件页面点击插件，然后点击要下载的文件后的Generate，再点击copy复制下载链接，然后去迅雷试试吧。
 
 - **macOS High Sierra最新测试版**
-  - 公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
+
+公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
 
 
 
