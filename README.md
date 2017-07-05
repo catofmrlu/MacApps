@@ -165,9 +165,7 @@ MacApps
   chrome中下载baidudl插件，在百度云网页版要下载的文件页面点击插件，然后点击要下载的文件后的Generate，再点击copy复制下载链接，然后去迅雷试试吧。
 
 - **macOS High Sierra最新测试版**
-  - 商店：https://itunes.apple.com/cn/app/macos-high-sierra-beta/id1209167288?mt=12
-  - beta2种子：https://page49.ctfile.com/fs/1855249-208967829
+  - 公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
 
-- ​
 
 
