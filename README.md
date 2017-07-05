@@ -11,6 +11,9 @@ MacApps
 > 注：可通过command+f(Mac)或Ctrl+f(Windows)来快速查找需要的app是否包含。
 
 ---
+app更新记录详见commit列表：[点我](https://github.com/lxxlxx888/MacApps/commits/master)
+
+---
 ### 1. 应用类：
 
 应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
