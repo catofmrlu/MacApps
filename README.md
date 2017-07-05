@@ -92,6 +92,7 @@ MacApps
 - **Hot Simple Image Viewer V1.4.1**：一款强大的图片预览软件，支持目录查看
 - **Iconjar V1.2.0**：一款图标素材管理软件
 - **Photosign V2.1.4**：一款批量添加水印的软件
+- **Matlab R2017a**:Mac下一款数学软件
 
 ---
 ### 2. 游戏类
