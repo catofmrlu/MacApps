@@ -58,7 +58,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Clean my mac 3.8.4（使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）
 - Logic Pro X V10.3.1
 - **Bartender**：菜单栏管理工具
-- 1Password V6.6.1
+- 1Password V6.6.3
 - Team viewer
 - Photoshop插件系列（更新中）
 - Final Cut Pro X插件系列（更新中）
@@ -96,6 +96,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Iconjar V1.2.0**：一款图标素材管理软件
 - **Photosign V2.1.4**：一款批量添加水印的软件
 - **Matlab R2017a**:Mac下一款数学软件
+- **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
 
 ---
 ### 2. 游戏类
