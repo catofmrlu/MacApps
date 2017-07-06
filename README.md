@@ -101,7 +101,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：http://pan.baidu.com/s/1qYNSub6
+游戏类下载地址：链接:http://pan.baidu.com/s/1qYfnfLq  
+密码:q4wv
 > 如需要密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
