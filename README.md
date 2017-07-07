@@ -97,6 +97,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Photosign V2.1.4**：一款批量添加水印的软件
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
+- **Membrane Pro V1.0.8**：一款封面制作软件
 
 ---
 ### 2. 游戏类
