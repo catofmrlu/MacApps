@@ -90,7 +90,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议
 - **Backgrounds V1.4.7**：一款系统增强及美化软件,可以让桌面动态信息显示、将视频作为动态桌面、当iTunes播放音乐的时候显示音乐专辑等等
 - **2Do V2.3.2** ：一款极简易用的任务管理软件
-- **Things V3.0.3**：一款优秀的GTD任务管理工具
+- **Things V3.1**：一款优秀的GTD任务管理工具
 - **Mosaic V1.0.7**：一款强大的窗口管理软件
 - **Hot Simple Image Viewer V1.4.1**：一款强大的图片预览软件，支持目录查看
 - **Iconjar V1.2.0**：一款图标素材管理软件
@@ -98,6 +98,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
 - **Membrane Pro V1.0.8**：一款封面制作软件
+- **Downie V2.9**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
 
 ---
 ### 2. 游戏类
