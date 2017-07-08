@@ -154,6 +154,23 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - 仙剑奇侠传5 mac移植版
 
 ---
+### 屏保插件
+
+> **下载地址**：http://pan.baidu.com/s/1cCPIkI
+
+- SwiftBubble：动态流体主题
+
+![屏幕快照 2017-07-08 下午10.54.49](https://ws3.sinaimg.cn/large/006tKfTcgy1fhcvds1lioj30hq0bmq3d.jpg)
+
+- Fliqlo：翻页时钟主题
+
+![屏幕快照 2017-07-08 下午10.54.24](https://ws4.sinaimg.cn/large/006tKfTcgy1fhcvdsnsxej30io0cimxl.jpg)
+
+- WatchOSX：apple watch 表盘主题
+
+![屏幕快照 2017-07-08 下午10.54.39](https://ws3.sinaimg.cn/large/006tKfTcgy1fhcvds7tqjj30j40b8t8y.jpg)
+
+---
 ### 3. mac下载站推荐
 
 - 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
