@@ -160,7 +160,17 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 
 > **下载地址**：http://pan.baidu.com/s/1cCPIkI
 
+- **SwiftBubble**：动态流体主题
+
+![屏幕快照 2017-07-08 下午10.54.49](/Users/LuXin/Desktop/屏幕快照 2017-07-08 下午10.54.49.png)
+
+- **WatchOSX**：apple watch表盘主题
+
 ![屏幕快照 2017-07-08 下午10.54.39](https://ws3.sinaimg.cn/large/006tKfTcgy1fhcvds7tqjj30j40b8t8y.jpg)
+
+- **Fliqlo**：翻页时钟主题
+
+![屏幕快照 2017-07-08 下午10.54.24](/Users/LuXin/Desktop/屏幕快照 2017-07-08 下午10.54.24.png)
 
 ---
 ### 3. mac下载站推荐
