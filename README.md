@@ -99,6 +99,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
 - **Membrane Pro V1.0.8**：一款封面制作软件
 - **Downie V2.9**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
+- **Screens V4.0.3**：一款VNC客户终端，它能够自由的访问远程计算机设备，方便用户使用
+- **Money Pro V1.8.4**：一款强大的个人理财软件，它可以帮助你轻松管理平时财务记录，而且完全中文界面
 
 ---
 ### 2. 游戏类
@@ -157,16 +159,6 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ### 屏保插件
 
 > **下载地址**：http://pan.baidu.com/s/1cCPIkI
-
-- SwiftBubble：动态流体主题
-
-![屏幕快照 2017-07-08 下午10.54.49](https://ws3.sinaimg.cn/large/006tKfTcgy1fhcvds1lioj30hq0bmq3d.jpg)
-
-- Fliqlo：翻页时钟主题
-
-![屏幕快照 2017-07-08 下午10.54.24](https://ws4.sinaimg.cn/large/006tKfTcgy1fhcvdsnsxej30io0cimxl.jpg)
-
-- WatchOSX：apple watch 表盘主题
 
 ![屏幕快照 2017-07-08 下午10.54.39](https://ws3.sinaimg.cn/large/006tKfTcgy1fhcvds7tqjj30j40b8t8y.jpg)
 
