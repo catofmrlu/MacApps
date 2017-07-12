@@ -101,7 +101,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Downie V2.9**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
 - **Screens V4.0.3**：一款VNC客户终端，它能够自由的访问远程计算机设备，方便用户使用
 - **Money Pro V1.8.4**：一款强大的个人理财软件，它可以帮助你轻松管理平时财务记录，而且完全中文界面
-- **SaveHollywood**:
+- **SaveHollywood**:可以设置视频的屏保插件
+- **Collagelt Pro V3.6.2**：一款图片自动拼贴软件，允许您自定义更改各种参数
 
 ---
 ### 2. 游戏类
