@@ -104,7 +104,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Collagelt Pro V3.6.2**：一款图片自动拼贴软件，允许您自定义更改各种参数
 - **Capto V1.2.3005**：一款屏幕录制和编辑及截图编辑app，极其易用，极力推荐
 - **Adobe Acrobat DC 2017.009 Mac中文破解版**：鼎鼎大名的pdf编辑软件，不需多言
-- **Path Finder V7.5 **：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
+- **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
 
 ---
 ### 2. 游戏类
