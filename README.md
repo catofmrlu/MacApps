@@ -19,7 +19,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
 > 如安装时需要密码：maccrack.cn 或 xclient.info
 
-- Alfred V3.3（10.12.5可用）
+- Alfred V3.4（亲测10.12.5可用）
 - 在线电视播放器 V5.4
 - Spectacle
 - VMware Fusion V8.5.3
