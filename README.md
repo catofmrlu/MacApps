@@ -105,6 +105,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Capto V1.2.3005**：一款屏幕录制和编辑及截图编辑app，极其易用，极力推荐
 - **Adobe Acrobat DC 2017.009 Mac中文破解版**：鼎鼎大名的pdf编辑软件，不需多言
 - **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
+- **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 
 ---
 ### 2. 游戏类
