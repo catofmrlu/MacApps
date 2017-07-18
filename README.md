@@ -106,6 +106,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Adobe Acrobat DC 2017.009 Mac中文破解版**：鼎鼎大名的pdf编辑软件，不需多言
 - **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
+- **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
 
 ---
 ### 2. 游戏类
