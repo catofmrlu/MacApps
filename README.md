@@ -160,6 +160,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - 蜡烛
 - LIMBO (地狱边境) for Mac V1.1 原生中文破解版
 - 仙剑奇侠传5 mac移植版
+- Samorost 3（银河历险记3）V1.1
+- 里奥的秘密 V1.0
 
 ---
 ### 屏保插件
