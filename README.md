@@ -81,7 +81,6 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Astropad V2.0.5**：一款能够将iPad/iPhone变为Mac手写板的软件
 - **GraphicConverter V10.4.2**：一款快速浏览图片以及具有简单的编辑和处理功能的软件
 - **Bartender V2.1.6**:Mac下一款菜单栏优化软件,可以缩减菜单栏的内容
-- **Principle V2.1.5**：一款交互设计软件
 - **Launcher V1.2.3**：一款快速启动软件，你可以自定义软件到菜单栏，并为之设置快捷键，快速打开软件
 - **MWeb V2.1.6 MAS TNT** :一款markdown编辑器，主打博客文章写作
 - **Alternote V1.0.10** :mac下的第三方印象笔记客户端，支持简单的markdown语法
@@ -107,6 +106,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 - **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
+- **Principle V2.1.6**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大
 
 ---
 ### 2. 游戏类
