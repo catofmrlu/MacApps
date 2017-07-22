@@ -47,7 +47,6 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - better zip
 - App cleaner
 - Jitouch V2.71
-- Day One
 - 迅雷（破解年会员版）
 - Downcast（破解版）
 - Boom V2.0
@@ -109,6 +108,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Principle V2.1.6**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大
 - **Dash V4.0.5**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
+- **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言
 
 ---
 ### 2. 游戏类
