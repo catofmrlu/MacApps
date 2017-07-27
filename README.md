@@ -111,6 +111,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言
 - **Falcon V1.5**:Falcon是一个简单的、基础的笔记应用程序，它支持从本地直接拖拽图片到编辑区。Falcon还添加了Code、To-Do 语法，而且代码块还支持高亮以及行数标记
 - **ProPrompter V5.0.3**:一款专业的提词器软件
+- **MyEclipse V2017 CI 2 Mac破解版**：不必多言
 
 ---
 ### 2. 游戏类
