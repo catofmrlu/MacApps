@@ -38,7 +38,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - ntfs4mac V14.2.359
 - movist
 - Logoist V2.0.2
-- Leaf V5.0
+- Leaf V5.0.6
 - Final cut pro x 10.3.4
 - Duet Display
 - Dreamweaver CS6
@@ -115,6 +115,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Fission V2.3.2**:Fission可以对任何一段音频进行剪贴复制黏贴和分割的操作，它还可以对因其他编辑器造成的音质损失进行弥补。其特还包括快速分割大文件，去除音频中比如广告等你不喜欢的段落，快速拖放合并和放大手机铃声的音量
 - **NetWorker V4.0.0**:可以让你在菜单栏上显示当前的网络上传下载速度，你可以在速度和流量两种模式之间切换，你也可以选择不同的网络模式来进行监测
 - **Polarr Photo Editor（泼辣修图） V4.0.0**：一款修图软件，它虽然体积很小，但是功能却不含糊，细节方面做得非常的到位
+- **Bluray Player V3.1.15**:一款超强大的蓝光播放器
 
 ---
 ### 2. 游戏类
