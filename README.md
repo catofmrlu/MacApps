@@ -117,6 +117,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Polarr Photo Editor（泼辣修图） V4.0.0**：一款修图软件，它虽然体积很小，但是功能却不含糊，细节方面做得非常的到位
 - **Bluray Player V3.1.15**:一款超强大的蓝光播放器
 - **PDFpenPro v9.0.2.1**:它不仅能够预览PDF，更能编辑和修改其中的内容
+- **App Uninstaller V4.1 TNT **：一款实用的应用程序卸载软件，它可以彻底卸载你安装的软件
 
 ---
 ### 2. 游戏类
@@ -220,6 +221,5 @@ chrome中下载baidudl插件，在百度云网页版要下载的文件页面点�
 - **macOS High Sierra最新测试版**
 
 公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
-
 
 
