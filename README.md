@@ -118,6 +118,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Bluray Player V3.1.15**:一款超强大的蓝光播放器
 - **PDFpenPro v9.0.2.1**:它不仅能够预览PDF，更能编辑和修改其中的内容
 - **App Uninstaller V4.1 TNT **：一款实用的应用程序卸载软件，它可以彻底卸载你安装的软件
+- **WebStorm V2017.1**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具。
+  被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`、`最智能的JavaScript IDE`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。
 
 ---
 ### 2. 游戏类
