@@ -38,7 +38,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - ntfs4mac V14.2.359
 - movist
 - Logoist V2.0.2
-- Leaf V5.0.6
+- Leaf V5.1
 - Final cut pro x 10.3.4
 - Duet Display
 - Dreamweaver CS6
@@ -95,7 +95,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
 - **Membrane Pro V1.0.8**：一款封面制作软件
-- **Downie V2.9.6**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
+- **Downie V2.9.8**：一款视频下载软件，支持YouTube，Vimeo 等大部分主流视频网站，支持国内的优酷和土豆
 - **Screens V4.0.3**：一款VNC客户终端，它能够自由的访问远程计算机设备，方便用户使用
 - **Money Pro V1.8.4**：一款强大的个人理财软件，它可以帮助你轻松管理平时财务记录，而且完全中文界面
 - **SaveHollywood**:可以设置视频的屏保插件
