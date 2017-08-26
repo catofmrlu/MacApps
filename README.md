@@ -87,7 +87,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **SecureCRT V8.1.2**：一款支持SSH（SSH1和SSH2）的终端仿真程序，同时支持Telnet和rlogin协议
 - **Backgrounds V1.4.7**：一款系统增强及美化软件,可以让桌面动态信息显示、将视频作为动态桌面、当iTunes播放音乐的时候显示音乐专辑等等
 - **2Do V2.3.2** ：一款极简易用的任务管理软件
-- **Things V3.1.1**：一款优秀的GTD任务管理工具
+- **Things V3.1.2**：一款优秀的GTD任务管理工具
 - **Mosaic V1.0.7**：一款强大的窗口管理软件
 - **Hot Simple Image Viewer V1.4.1**：一款强大的图片预览软件，支持目录查看
 - **Iconjar V1.2.0**：一款图标素材管理软件
@@ -119,7 +119,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **PDFpenPro v9.0.2.1**:它不仅能够预览PDF，更能编辑和修改其中的内容
 - **App Uninstaller V4.1 TNT **：一款实用的应用程序卸载软件，它可以彻底卸载你安装的软件
 - **WebStorm V2017.1**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具。
-  被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`、`最智能的JavaScript IDE`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。
+  被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`、`最智能的JavaScript IDE`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能
+- **LilyView V1.2.3**：一款轻量级图片查看软件，特色就是完全随心所欲支持手势看图
 
 ---
 ### 2. 游戏类
