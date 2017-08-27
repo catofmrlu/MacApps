@@ -121,6 +121,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **WebStorm V2017.1**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具。
   被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`、`最智能的JavaScript IDE`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能
 - **LilyView V1.2.3**：一款轻量级图片查看软件，特色就是完全随心所欲支持手势看图
+- **Hardware Monitor V5.5**：一款硬件检测软件，它可以帮助您实时显示硬件温度
 
 ---
 ### 2. 游戏类
