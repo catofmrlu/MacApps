@@ -67,7 +67,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - snip V2.0
 - Doo V2.0.1
 - Airmail V3.2.3
-- Launchey V1.2.2
+- Launchey V1.4
 - WMF Converter Pro V3.4.2
 - OmniPlan V3.7
 - Chronicle V7.0.0
