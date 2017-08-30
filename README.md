@@ -119,9 +119,10 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **PDFpenPro v9.0.2.1**:它不仅能够预览PDF，更能编辑和修改其中的内容
 - **App Uninstaller V4.1 TNT **：一款实用的应用程序卸载软件，它可以彻底卸载你安装的软件
 - **WebStorm V2017.1**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具。
-  被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`、`最智能的JavaScript IDE`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能
+  被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能
 - **LilyView V1.2.3**：一款轻量级图片查看软件，特色就是完全随心所欲支持手势看图
 - **Hardware Monitor V5.5**：一款硬件检测软件，它可以帮助您实时显示硬件温度
+- **Alfred workflow插件系列**: Alfred作为mac平台的神器，离不开workflow插件的加成，该目录收录常用的workflow插件
 
 ---
 ### 2. 游戏类
