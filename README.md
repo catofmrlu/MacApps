@@ -124,7 +124,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Hardware Monitor V5.5**：一款硬件检测软件，它可以帮助您实时显示硬件温度
 - **Alfred workflow插件系列**: Alfred作为mac平台的神器，离不开workflow插件的加成，该目录收录常用的workflow插件
 - **Canary Mail V1.3**：Canary Mail非常安全，并提供PGP加密开箱即用。为了简化密钥管理，它允许您在Keybase上搜索您的联系人。此外，设备上的本地数据库已加密，并且服务器上没有存储个人数据
-- **Wondershare Data Recovery V6.0.7**：一个数据恢复套件，以恢复因意外删除，格式化，病毒感染，操作不当，出现意外断电，和其他不明原因丢失的Mac数据
+- **Wondershare Data Recovery V6.0.7**：一个数据恢复套件，以恢复因意外删除，格式化，病毒感染，操作不当，出现意外断电，和其他不明原因丢失的数据
 - **Later V1.0.6**：一款实用的提醒软件，让你按照自然的方式安排提醒选择的时间
 
 ---
