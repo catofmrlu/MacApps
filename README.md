@@ -90,7 +90,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Things V3.1.2**：一款优秀的GTD任务管理工具
 - **Mosaic V1.0.7**：一款强大的窗口管理软件
 - **Hot Simple Image Viewer V1.4.1**：一款强大的图片预览软件，支持目录查看
-- **Iconjar V1.2.0**：一款图标素材管理软件
+- **Iconjar V1.3.2**：一款图标素材管理软件
 - **Photosign V2.1.4**：一款批量添加水印的软件
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
@@ -127,6 +127,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Wondershare Data Recovery V6.0.7**：一个数据恢复套件，以恢复因意外删除，格式化，病毒感染，操作不当，出现意外断电，和其他不明原因丢失的数据
 - **Later V1.0.6**：一款实用的提醒软件，让你按照自然的方式安排提醒选择的时间
 - **iShowU Studio 2.15**：一款屏幕录制软件——iShowU Studio，它支持同时录制屏幕和摄像头，非常方便
+- **iThoughtsX V4.1**：iThoughts X可以帮助我们轻松的在自己的电脑上绘制精美的思维导图。可以在 Mac 和 iPhone以及 iPad 之间轻松查看绘制的思维导图
 
 ---
 ### 2. 游戏类
