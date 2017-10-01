@@ -17,7 +17,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ### 1. 应用类：
 
 应用类下载地址：http://pan.baidu.com/s/1c1DQrDY
-> 如安装时需要密码：maccrack.cn 或 xclient.info
+> - 如安装时需要密码：maccrack.cn 或 xclient.info
+> - 已经开始整理app版本，部分已经支持历史版本
 
 - Alfred V3.4（亲测10.12.5可用）
 - 在线电视播放器 V5.4
@@ -128,6 +129,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Later V1.0.6**：一款实用的提醒软件，让你按照自然的方式安排提醒选择的时间
 - **iShowU Studio 2.15**：一款屏幕录制软件——iShowU Studio，它支持同时录制屏幕和摄像头，非常方便
 - **iThoughtsX V4.1**：iThoughts X可以帮助我们轻松的在自己的电脑上绘制精美的思维导图。可以在 Mac 和 iPhone以及 iPad 之间轻松查看绘制的思维导图
+- **Autodesk Maya 2018.1**:Autodesk Maya 是一款Mac OS平台上的业界顶级的三维动画软件，由todesk公司出品的。可以说是三维动画制作必备工具，集成 Bifrost , Bifrost Node Editor 材质编辑器, 渲染窗口, 建模工具, 菜单显示优化, 插件管理器优化等
 
 ---
 ### 2. 游戏类
