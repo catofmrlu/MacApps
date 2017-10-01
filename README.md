@@ -20,7 +20,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
-- **Alfred V3.4**（亲测10.12.5可用）
+- **Alfred V3.5**（亲测10.12.5可用）：神器，不解释
 - 在线电视播放器 V5.4
 - Spectacle
 - VMware Fusion V8.5.3
