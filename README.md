@@ -55,7 +55,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Things V2.8
 - Adobe CC 2017套件
 - Reader V3.0
-- Clean my mac V3.9 beat3（使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）
+- Clean my mac V3.9 正式版 （使用时尽力不要使用代理，可能被官方反破解系统发现而致闪退）  地址: http://pan.baidu.com/s/1dFtSjfz
 - Logic Pro X V10.3.1
 - 1Password V6.6.4
 - Team viewer
