@@ -131,6 +131,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Autodesk Maya 2018.1**:Autodesk Maya 是一款Mac OS平台上的业界顶级的三维动画软件，由todesk公司出品的。可以说是三维动画制作必备工具，集成 Bifrost , Bifrost Node Editor 材质编辑器, 渲染窗口, 建模工具, 菜单显示优化, 插件管理器优化等
 - **在线视频播放器 V9.6**：最全的国内在线电视频道，而且支持订阅网上的视频集
 - **Navicat Premium 12.0.13**：一个可多重连接的数据库管理工具，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便
+- **Qbserve V1.68**：一款自动私人时间跟踪软件，Qbserve给你关于你通过智能主动观察应用程序花费你的时间的方式即时解答。所有跟踪的信息被存储私下你的机器上
+- **PhotoZoom Pro V7.0.6**：最大特色是可以对图片进行放大或缩小而没有锯齿、较少失真
 
 ---
 ### 2. 游戏类
