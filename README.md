@@ -137,7 +137,10 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接屡次被吞，现改为发邮件索取链接，请发邮件到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
+游戏类下载地址：https://pan.baidu.com/s/1miQPV0O#list/path=%2F
+
+>  注：如链接失效，请发邮件（注明需要的游戏）到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
+
 > 如安装app时需要密码：www.konami.cc 或 konami.cc
 
 - 瘟疫公司（Plague.inc.Evolved）V1.0
