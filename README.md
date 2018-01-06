@@ -108,7 +108,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Principle V3.0**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大
 - **Dash V4.0.5**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
-- **Day One V2.5.6**：ios&mac备受好评的日记应用，可以说没有之一，无需多言
+- **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
 - **Falcon V1.5**:Falcon是一个简单的、基础的笔记应用程序，它支持从本地直接拖拽图片到编辑区。Falcon还添加了Code、To-Do 语法，而且代码块还支持高亮以及行数标记
 - **ProPrompter V5.0.3**:一款专业的提词器软件
 - **MyEclipse V2017 CI 2 Mac破解版**：不必多言
@@ -138,7 +138,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：https://pan.baidu.com/s/1i5299oL#list/path=%2F
+游戏类下载地址：<https://pan.baidu.com/s/1geNyL7H>
 
 >  注：如链接失效，请发邮件（注明需要的游戏）到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
 
