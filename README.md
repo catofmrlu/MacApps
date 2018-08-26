@@ -149,6 +149,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - 瘟疫公司（Plague.inc.Evolved）V1.0
 - 使命召唤8：现代战争3（中文版）
 - 机械迷城（中文版）
+- Machinarium机械迷城 3.1.5（英文版）
 - 将军之刃
 - 红色警戒共和国之辉（3D版）
 - 火影忍者究极风暴革命
