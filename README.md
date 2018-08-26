@@ -66,7 +66,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Sublime Text V3129
 - snip V2.0
 - Doo V2.0.1
-- Airmail V3.2.3
+- Airmail V3.5.9
 - Launchey V1.4
 - WMF Converter Pro V3.4.2
 - OmniPlan V3.7
