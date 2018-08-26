@@ -20,7 +20,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
-- **Alfred V3.5**（亲测10.12.5可用）：神器，不解释
+- *12.5可用）：神器，不解释
 - Spectacle
 - VMware Fusion V8.5.3
 - Syncios Data Transfer
@@ -134,6 +134,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Qbserve V1.68**：一款自动私人时间跟踪软件，Qbserve给你关于你通过智能主动观察应用程序花费你的时间的方式即时解答。所有跟踪的信息被存储私下你的机器上
 - **PhotoZoom Pro V7.0.6**：最大特色是可以对图片进行放大或缩小而没有锯齿、较少失真
 - **Yate V3.17.4.1**:Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据，支持MP3, M4A, MP4，AIFF, FLAC, WAV以及 DSF格式的音频文件，我们可以利用这款软件轻松管理我们的音乐文件
+- **iTubeDownloader 6.3.8.1**：iTubeDownloader 是一款Mac上优秀的在线视频下载工具，操作简单，只需要复制网址到软件上就可以自动下载在线视频，支持1080高清视频下载，可以帮助用户轻松的下载Youtube等网站上的所有视频文件到本地浏览观看。
 
 ---
 ### 2. 游戏类
