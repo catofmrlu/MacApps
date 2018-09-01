@@ -142,7 +142,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 
 游戏类下载地址：链接：https://pan.baidu.com/s/1CwQceAIRajkutLOjIfTEAQ 密码：x5ct
 
->  注：如链接失效，请发邮件（注明需要的游戏）到lxxlxx888@163.com或lxxlxx8888@outlook.com获取链接，会及时处理的。
+>  注：如链接失效，请发邮件到lxxlxx8888@outlook.com获取链接，会及时处理的。
 
 > 如安装app时需要密码：www.konami.cc 或 konami.cc
 
