@@ -140,7 +140,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接：https://pan.baidu.com/s/13oFrmKRZZ8twERbcc9ao2g 密码：d07x
+游戏类下载地址：链接: https://pan.baidu.com/s/1uN8O4kLZDqzo8cJlPV9S7A 密码: b47e
 
 >  注：如链接失效，请发邮件到lxxlxx8888@outlook.com获取链接，会及时处理的。
 
