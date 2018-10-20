@@ -16,7 +16,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 1. 应用类：
 
-应用类下载地址：链接:https://pan.baidu.com/s/1ACAwsQ00jGJKXQVb7fho4A 密码:nzrh
+应用类下载地址：链接:https://pan.baidu.com/s/191Rx6onPwoLqW6VwmkzAKw 密码:3276
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
@@ -140,7 +140,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接:https://pan.baidu.com/s/1JyQHHwXlUfAXI67-wJ0rQA 密码:opsm
+游戏类下载地址：链接:https://pan.baidu.com/s/1OK1nLjHfnyEHDLrtGN3W_Q 密码:l333
 
 >  注：如链接失效，请发邮件到lxxlxx8888@outlook.com获取链接，会及时处理的。
 
