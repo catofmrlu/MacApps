@@ -230,7 +230,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Xclient（免费，资源丰富，历史版本下载，极力推荐）：http://xclient.info
 - mac小站（会员费28，不推荐）：http://maccrack.cn/
 - 玩转苹果（会员费59，不推荐）：http://www.ifunmac.com/
-
+- www.cmacapps.com
+- mac-torrent-download.net
 ---
 ### 4. mac常见问题
 
