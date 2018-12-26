@@ -16,7 +16,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 1. 应用类：
 
-应用类下载地址：链接:https://pan.baidu.com/s/1yMtA_vbYpHcDlrpZ5QeTRA  提取码:285y
+应用类下载地址：链接:https://pan.baidu.com/s/1f4XujXP4EIW2jABKeJrrJQ  提取码:aqrp
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
