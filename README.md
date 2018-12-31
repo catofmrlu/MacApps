@@ -136,7 +136,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Yate V3.17.4.1**:Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据，支持MP3, M4A, MP4，AIFF, FLAC, WAV以及 DSF格式的音频文件，我们可以利用这款软件轻松管理我们的音乐文件
 - **iTubeDownloader 6.3.8.1**：iTubeDownloader 是一款Mac上优秀的在线视频下载工具，操作简单，只需要复制网址到软件上就可以自动下载在线视频，支持1080高清视频下载，可以帮助用户轻松的下载Youtube等网站上的所有视频文件到本地浏览观看
 - **cDock 1.1.3 Dock美化工具**：cDock是专门为OS X系统所定制的小插件，有了它我们就可以对Dock菜单栏进行自定义主题
-
+- **IconKit 10.1.1**: IconKit是Mac OS X 平台上一款适用于ios和mac的应用图标制作工具，能够自动制作成你需要的图标格式
 ---
 ### 2. 游戏类
 
