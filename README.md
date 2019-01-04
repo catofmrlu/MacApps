@@ -232,7 +232,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - mac小站（会员费28，不推荐）：http://maccrack.cn/
 - 玩转苹果（会员费59，不推荐）：http://www.ifunmac.com/
 - www.cmacapps.com (@sarkrui推荐)
-- mac-torrent-download.net (@sarkrui推荐)
+- [mac-torrent-download.net](mac-torrent-download.net) (@sarkrui推荐)
 - https://www.macbl.com/ (@luhengqi推荐)
 ---
 ### 4. mac常见问题
