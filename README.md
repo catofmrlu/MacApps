@@ -139,6 +139,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **IconKit 10.1.1**: IconKit是Mac OS X 平台上一款适用于ios和mac的应用图标制作工具，能够自动制作成你需要的图标格式
 - **iA Writer 5.2.1**：一款简单好用的 markdown 写作工具
 - **Permute 3.0.5**：小巧便捷的多媒体文件格式转换器
+- **BBEdit 12.5.2**：据说是一款著名代码编辑器，但本人没有用过
 ---
 ### 2. 游戏类
 
