@@ -138,6 +138,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **cDock 1.1.3 Dock美化工具**：cDock是专门为OS X系统所定制的小插件，有了它我们就可以对Dock菜单栏进行自定义主题
 - **IconKit 10.1.1**: IconKit是Mac OS X 平台上一款适用于ios和mac的应用图标制作工具，能够自动制作成你需要的图标格式
 - **iA Writer 5.2.1**：一款简单好用的 markdown 写作工具
+- **Permute 3.0.5**：小巧便捷的多媒体文件格式转换器
 ---
 ### 2. 游戏类
 
