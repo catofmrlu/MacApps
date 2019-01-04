@@ -90,7 +90,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Things V3.8**：一款优秀的GTD任务管理工具
 - **Mosaic V1.0.7**：一款强大的窗口管理软件
 - **Hot Simple Image Viewer V1.4.1**：一款强大的图片预览软件，支持目录查看
-- **Iconjar V1.3.2**：一款图标素材管理软件
+- **Iconjar V1.12.2**：一款图标素材管理软件
 - **Photosign V2.1.4**：一款批量添加水印的软件
 - **Matlab R2017a**:Mac下一款数学软件
 - **CloudTV V3.7.7**：一款电视直播软件，能够收看来自世界各地超过400个电视频道直播，只需wifi
