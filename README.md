@@ -202,6 +202,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - （我的世界）Minecraft V1.7.2整合(含Forge)
 - Call Of Duty:Black Ops 《使命召唤：黑色行动》 
 - Football Manager足球经理2018 V18.3.4 
+- Rise of the Tomb Raider™《古墓丽影：崛起》 V1.0.2
 
 ---
 ### 屏保插件
