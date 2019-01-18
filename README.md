@@ -145,6 +145,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Movavi Photo Manager 1.1.0**：Movavi Photo Manager 可以管理整个照片集，包括RAW、JPEG、PNG和许多其他格式的图像。功能包含：整理照片、编辑图像、查看图片
 - **iMazing 2.8.4(9891) **：在Mac上管理 iPhone 如此简单
 - **Money Pro 2.2.3**：Money Pro是Mac上的一款很好用的理财软件，目前全世界共有两百多万客户使用它来管理个人财务。它是一款真正的多合一应用程序，可以为你规划账单、安排预算、跟踪交易，并且所有操作均可同步执行
+- **Microsoft Office 2019 16.21**：19版office据说体验提升显著
 - 
 ---
 ### 2. 游戏类
