@@ -141,6 +141,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Permute 3.0.7**：小巧便捷的多媒体文件格式转换器
 - **BBEdit 12.5.2**：据说是一款著名代码编辑器，但本人没有用过
 - **djay Pro 2.0.10**：djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道
+- **Autodesk MayaLT 2019**：Autodesk Maya 是一款Mac OS平台上的业界顶级的三维动画软件，由todesk公司出品的。可以说是三维动画制作必备工具
 ---
 ### 2. 游戏类
 
