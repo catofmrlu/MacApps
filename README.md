@@ -147,6 +147,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Money Pro 2.2.3**：Money Pro是Mac上的一款很好用的理财软件，目前全世界共有两百多万客户使用它来管理个人财务。它是一款真正的多合一应用程序，可以为你规划账单、安排预算、跟踪交易，并且所有操作均可同步执行
 - **Microsoft Office 2019 16.21**：19版office据说体验提升显著
 - **OmniPlan 3.10.4 专业版**：OmniPlan for mac 是Mac OS X平台的的一款非常强大的项目管理软件，它提供的功能包含了自定检视表、阶层式的纲要模式、成本追踪、里程碑、任务限制与相关性、资源分配、时程控制、Gantt 图表、违反事项显示、关键路径等等
+- **PyCharm 2018.3.3**：PyCharm是由JetBrains打造的一款Python IDE，VS2010的重构插件Resharper就是出自JetBrains之手，下载地址及激活方法：https://xclient.info/s/pycharm.html
+- 
 ---
 ### 2. 游戏类
 
