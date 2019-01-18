@@ -151,6 +151,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **AppCode 2018.3.3**：AppCode 是一个全新的 Objective-C 的集成开发环境，用于帮助开发 Mac、iPhone 和 iPad 的应用程序。被誉为“十大Mac和iOS应用开发工具”，下载地址及激活方法：https://xclient.info/s/appcode.html
 - **CLion 2018.3.3**：CLion是一款专为开发C及C++所设计的跨平台IDE。它是以IntelliJ为基础设计的，包含了许多智能功能来提高开发人员的生产力，下载地址及激活方法：https://xclient.info/s/clion.html
 - **Logic Pro X 10.4.4**：Logic Pro 是苹果公司推出的音乐处理制作软件。提供了作曲、录音、编辑和混音等丰富的音乐制作功能
+- **OmniFocus 3.2**：OmniFocus 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 ---
 ### 2. 游戏类
 
