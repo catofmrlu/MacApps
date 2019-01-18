@@ -105,7 +105,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 - **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
-- **Principle V3.0**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大
+- **Principle V5.3**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大，下载地址及激活方法：https://xclient.info/s/principle.html
 - **Dash V4.0.5**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
 - **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
@@ -153,7 +153,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Logic Pro X 10.4.4**：Logic Pro 是苹果公司推出的音乐处理制作软件。提供了作曲、录音、编辑和混音等丰富的音乐制作功能
 - **OmniFocus 3.2**：OmniFocus 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 - **AnyTrans for iOS 7.0.4.20190107**：AnyTrans是一款 Mac OS X 上的iOS设备数据传输及数据管理工具，比苹果官方的iTunes使用起来更加顺手，并不是说iTunes多不好用，但是多一个选择还是不错的。AnyTrans的操作界面简单易用，和iTunes比较相似
-- **IntelliJ IDEA Ultimate Edition 2018.3.3**：IntelliJ IDEA for mac是一个综合性的Java编程环境,被许多开发人员和行业专家誉为市场上最好的IDE
+- **IntelliJ IDEA Ultimate Edition 2018.3.3**：IntelliJ IDEA for mac是一个综合性的Java编程环境,被许多开发人员和行业专家誉为市场上最好的IDE，下载地址及激活方法：https://xclient.info/s/intellij-idea.html
+- 
 ---
 ### 2. 游戏类
 
