@@ -118,7 +118,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Bluray Player V3.1.15**:一款超强大的蓝光播放器
 - **PDFpenPro v9.0.2.1**:它不仅能够预览PDF，更能编辑和修改其中的内容
 - **App Uninstaller V4.1 TNT **：一款实用的应用程序卸载软件，它可以彻底卸载你安装的软件
-- **WebStorm V2017.1**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具。
+- **WebStorm V2018.3.3**:WebStorm for mac是jetbrains公司旗下一款很好用的JavaScript开发工具,下载地址及激活：https://xclient.info/s/web-storm.html
   被广大中国JS开发者誉为`Web前端开发神器`、`最强大的HTML5编辑器`等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能
 - **LilyView V1.2.3**：一款轻量级图片查看软件，特色就是完全随心所欲支持手势看图
 - **Hardware Monitor V5.5**：一款硬件检测软件，它可以帮助您实时显示硬件温度
@@ -154,7 +154,6 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **OmniFocus 3.2**：OmniFocus 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 - **AnyTrans for iOS 7.0.4.20190107**：AnyTrans是一款 Mac OS X 上的iOS设备数据传输及数据管理工具，比苹果官方的iTunes使用起来更加顺手，并不是说iTunes多不好用，但是多一个选择还是不错的。AnyTrans的操作界面简单易用，和iTunes比较相似
 - **IntelliJ IDEA Ultimate Edition 2018.3.3**：IntelliJ IDEA for mac是一个综合性的Java编程环境,被许多开发人员和行业专家誉为市场上最好的IDE，下载地址及激活方法：https://xclient.info/s/intellij-idea.html
-- 
 ---
 ### 2. 游戏类
 
