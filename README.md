@@ -155,6 +155,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **AnyTrans for iOS 7.0.4.20190107**：AnyTrans是一款 Mac OS X 上的iOS设备数据传输及数据管理工具，比苹果官方的iTunes使用起来更加顺手，并不是说iTunes多不好用，但是多一个选择还是不错的。AnyTrans的操作界面简单易用，和iTunes比较相似
 - **IntelliJ IDEA Ultimate Edition 2018.3.3**：IntelliJ IDEA for mac是一个综合性的Java编程环境,被许多开发人员和行业专家誉为市场上最好的IDE，下载地址及激活方法：https://xclient.info/s/intellij-idea.html
 - **PHPStorm 2018.3.3**：PhpStorm是一款由JetBrains公司开发推出的商业PHP 集成开发工具，被誉为最好用的PHP IDE，下载地址及激活：https://xclient.info/s/php-storm.html
+- **Notability V2.9.3**：iPad 和 iPhone 上最为抢手的备注记录应用程序，现已登陆 Mac！可用于注释文稿、草拟想法、录制演讲、记录备注等。它将键入、手写、录音和照片结合在一起，便于您根据需要创建相应的备注。
 ---
 ### 2. 游戏类
 
