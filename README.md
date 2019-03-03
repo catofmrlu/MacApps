@@ -104,7 +104,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Collagelt Pro V3.6.2**：一款图片自动拼贴软件，允许您自定义更改各种参数
 - **Capto V1.2.3005**：一款屏幕录制和编辑及截图编辑app，极其易用，极力推荐
 - **Adobe Acrobat DC 2017.009 Mac中文破解版**：鼎鼎大名的pdf编辑软件，不需多言
-- **Path Finder V7.5**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
+- **Path Finder V8.3.9**：超好用的文件管理器，finder的替代者，贴近windows的资源管理器
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 - **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
 - **Principle V5.3**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大，下载地址及激活方法：https://xclient.info/s/principle.html
