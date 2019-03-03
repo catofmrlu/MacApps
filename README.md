@@ -26,7 +26,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Spectacle
 - VMware Fusion V8.5.3
 - Syncios Data Transfer
-- Sketch V43.1
+- **Sketch V53.2**：Sketch是最强大的移动应用矢量绘图设计工具，对于网页设计和移动设计者来说，比PhotoShop好用N倍
 - SendToX
 - audio hijack pro V3.3
 - Autodesk Maja 2016
