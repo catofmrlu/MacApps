@@ -108,7 +108,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 - **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
 - **Principle V5.3**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大，下载地址及激活方法：https://xclient.info/s/principle.html
-- **Dash V4.6.1**：api下载工具，可以离线查看api
+- **Dash V4.6.2**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
 - **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
 - **Falcon V1.5**:Falcon是一个简单的、基础的笔记应用程序，它支持从本地直接拖拽图片到编辑区。Falcon还添加了Code、To-Do 语法，而且代码块还支持高亮以及行数标记
