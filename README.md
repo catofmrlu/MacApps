@@ -16,7 +16,9 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 1. 应用类：
 
-应用类下载地址：链接:https://pan.baidu.com/s/1f4XujXP4EIW2jABKeJrrJQ  提取码:aqrp
+应用类下载地址：链接：https://pan.baidu.com/s/1HGhhvLqFSYeh0j1Q1AXIgg 
+提取码：g7hz 
+
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
@@ -158,7 +160,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接：https://pan.baidu.com/s/1g_xTZ7BiiKtMUi9YT870SA 提取码：p1xh 
+游戏类下载地址：链接：https://pan.baidu.com/s/1PFgLTkH4MCLsOq-CDxCF1A 
+提取码：xvb5 
 
 >  注：如链接失效，请发邮件到lxxlxx8888@outlook.com获取链接，会及时处理的。
 
