@@ -150,7 +150,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **OmniPlan 3.10.4 专业版**：OmniPlan for mac 是Mac OS X平台的的一款非常强大的项目管理软件，它提供的功能包含了自定检视表、阶层式的纲要模式、成本追踪、里程碑、任务限制与相关性、资源分配、时程控制、Gantt 图表、违反事项显示、关键路径等等
 - **PyCharm 2018.3.3**：PyCharm是由JetBrains打造的一款Python IDE，VS2010的重构插件Resharper就是出自JetBrains之手，下载地址及激活方法：https://xclient.info/s/pycharm.html
 - **AppCode 2018.3.3**：AppCode 是一个全新的 Objective-C 的集成开发环境，用于帮助开发 Mac、iPhone 和 iPad 的应用程序。被誉为“十大Mac和iOS应用开发工具”，下载地址及激活方法：https://xclient.info/s/appcode.html
-- **CLion 2018.3.3**：CLion是一款专为开发C及C++所设计的跨平台IDE。它是以IntelliJ为基础设计的，包含了许多智能功能来提高开发人员的生产力，下载地址及激活方法：https://xclient.info/s/clion.html
+- **CLion 2018.3.4**：CLion是一款专为开发C及C++所设计的跨平台IDE。它是以IntelliJ为基础设计的，包含了许多智能功能来提高开发人员的生产力，下载地址及激活方法：https://xclient.info/s/clion.html
 - **Logic Pro X 10.4.4**：Logic Pro 是苹果公司推出的音乐处理制作软件。提供了作曲、录音、编辑和混音等丰富的音乐制作功能
 - **OmniFocus 3.2**：OmniFocus 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 - **AnyTrans for iOS 7.0.4.20190107**：AnyTrans是一款 Mac OS X 上的iOS设备数据传输及数据管理工具，比苹果官方的iTunes使用起来更加顺手，并不是说iTunes多不好用，但是多一个选择还是不错的。AnyTrans的操作界面简单易用，和iTunes比较相似
