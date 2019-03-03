@@ -138,7 +138,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **iTubeDownloader 6.3.8.1**：iTubeDownloader 是一款Mac上优秀的在线视频下载工具，操作简单，只需要复制网址到软件上就可以自动下载在线视频，支持1080高清视频下载，可以帮助用户轻松的下载Youtube等网站上的所有视频文件到本地浏览观看
 - **cDock 1.1.3 Dock美化工具**：cDock是专门为OS X系统所定制的小插件，有了它我们就可以对Dock菜单栏进行自定义主题
 - **IconKit 10.1.1**: IconKit是Mac OS X 平台上一款适用于ios和mac的应用图标制作工具，能够自动制作成你需要的图标格式
-- **iA Writer 5.2.1**：一款简单好用的 markdown 写作工具
+- **iA Writer 5.2.2**：一款简单好用的 markdown 写作工具
 - **Permute 3.1.1**：小巧便捷的多媒体文件格式转换器
 - **BBEdit 12.5.2**：据说是一款著名代码编辑器，但本人没有用过
 - **djay Pro 2.0.10**：djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道
