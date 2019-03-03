@@ -58,7 +58,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Reader V3.0
 - Clean my mac V3.9 正式版 
 - Logic Pro X V10.3.1
-- 1Password V6.6.4
+- **1Password V7.7.2.5**：我们每一天都会有新的密码需要记忆。如果每次都用新密码，则很容易忘记。如果每次都用一样的旧密码，安全系数则会大大降低。有了 1Password 就无需再为此烦恼
 - Team viewer
 - Photoshop插件系列（更新中）
 - Final Cut Pro X插件系列（更新中）
