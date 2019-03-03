@@ -35,7 +35,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - PS CS6
 - PS V2017
 - **Paste V2.4.3**：强大的剪切板增强工具. 可以记录无穷尽的粘贴复制记录用户日后访问时候使用. 界面美观操作简单。
-- Parallels Desktop 12
+- **Parallels Desktop V14.1.1(45476)**：最佳Mac虚拟机解决方案
 - office V2016
 - ntfs4mac V14.2.359
 - movist
