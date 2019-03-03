@@ -159,6 +159,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Notability V2.9.3**：iPad 和 iPhone 上最为抢手的备注记录应用程序，现已登陆 Mac！可用于注释文稿、草拟想法、录制演讲、记录备注等。它将键入、手写、录音和照片结合在一起，便于您根据需要创建相应的备注
 - **Navicat Premium V12.1.16**：Navicat Premium for mac是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习
 - **RightFont V5.3.3(2382)**：Mac OS X 上一款非常轻巧的字体管理工具，目前已经完成了与 PhotoShop、Sketch 两大设计应用的集成
+- **Adobe Acrobat Pro DC V2019.010.20098**：强大的PDF编辑软件
 ---
 ### 2. 游戏类
 
