@@ -161,6 +161,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **RightFont V5.3.3(2382)**：Mac OS X 上一款非常轻巧的字体管理工具，目前已经完成了与 PhotoShop、Sketch 两大设计应用的集成
 - **Adobe Acrobat Pro DC V2019.010.20098**：强大的PDF编辑软件
 - **Zoc Terminal V7.22.7**：ZOC Terminal 是一款Mac上强大的SSH/Telnet终端工具，相比系统自带的终端程序，ZOC Termina具有各种强大的功能
+- **Adobe Zii V4.1.7**：Adobe Zii是一款Mac平台上的Adobe系列软件激活工具
 ---
 ### 2. 游戏类
 
