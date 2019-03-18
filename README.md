@@ -16,8 +16,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 1. 应用类：
 
-应用类下载地址：链接：https://pan.baidu.com/s/1M8pf-WwzdpAQao8Cca7NbA 
-提取码：kvan 
+应用类下载地址：链接：https://pan.baidu.com/s/1S6YsllrfM2da48lzC7wA0Q 
+提取码：51wm
 
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
@@ -165,8 +165,8 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 2. 游戏类
 
-游戏类下载地址：链接：https://pan.baidu.com/s/1UZZcX77gH4tTg-Db5W1g8g 
-提取码：askl 
+游戏类下载地址：链接：https://pan.baidu.com/s/1_Bi3cVZVTYpnpIuHNLG2SA 
+提取码：919v
 
 >  注：如链接失效，请发邮件到lxxlxx8888@outlook.com获取链接，会及时处理的。
 
