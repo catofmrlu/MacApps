@@ -81,7 +81,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Wirecast 7.4.0 TNT**：一款可以方便采集和制作用于网上直播的多机位现场视频的软件
 - **Astropad V2.0.5**：一款能够将iPad/iPhone变为Mac手写板的软件
 - **GraphicConverter V10.4.2**：一款快速浏览图片以及具有简单的编辑和处理功能的软件
-- **Bartender V3.3.0.55b**:Mac下一款菜单栏优化软件,可以缩减菜单栏的内容
+- **Bartender V3.0.63(363b)**:Mac下一款菜单栏优化软件,可以缩减菜单栏的内容
 - **Launcher V1.3.0**：一款快速启动软件，你可以自定义软件到菜单栏，并为之设置快捷键，快速打开软件
 - **MWeb V2.1.6 MAS TNT** :一款markdown编辑器，主打博客文章写作
 - **Alternote V1.0.10** :mac下的第三方印象笔记客户端，支持简单的markdown语法
