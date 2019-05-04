@@ -26,7 +26,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
-- **Alfred 3.8**：神器，不解释 ![](https://img.shields.io/badge/推荐安装等级-★★★★★-brightgreen.svg)
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) **Alfred 3.8**：神器，不解释 
 - Spectacle
 - VMware Fusion V8.5.3
 - Syncios Data Transfer
@@ -39,7 +39,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - PS CS6
 - PS V2017
 - **Paste V2.4.3**：强大的剪切板增强工具. 可以记录无穷尽的粘贴复制记录用户日后访问时候使用. 界面美观操作简单。
-- **Parallels Desktop V14.1.1(45476)**：最佳Mac虚拟机解决方案![](https://img.shields.io/badge/推荐安装等级-★★★★★-brightgreen.svg)
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) **Parallels Desktop V14.1.1(45476)**：最佳Mac虚拟机解决方案
 - office V2016
 - ntfs4mac V14.2.359
 - movist
@@ -112,9 +112,9 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **pycharm V2017.1.2**：一个Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具
 - **MyEclipse V2017 CI3**：一款Java 集成开发工具——MyEclipse，这个ide无需多言
 - **Principle V5.3**：一款交互设计软件，它可以帮助你制作出一个完整交互动画的原型，非常强大，下载地址及激活方法：https://xclient.info/s/principle.html
-- **Dash V4.6.2**：api下载工具，可以离线查看api![](https://img.shields.io/badge/推荐安装等级-★★★★★-brightgreen.svg)
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) **Dash V4.6.2**：api下载工具，可以离线查看api
 - **Sparkle V2.1.4**：一款Mac平台的可视化网页设计工具 ，可以帮助web开发者非常方便地设计web页面，同时对于新手而言也更加容易上手，是web设计者不可多得的网页设计工具
-- **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) **Day One V2.1.8**：ios&mac备受好评的日记应用，可以说没有之一，无需多言（注：2.1.8版本为目前唯一可破解版本，不要随意升级！）
 - **Falcon V1.5**:Falcon是一个简单的、基础的笔记应用程序，它支持从本地直接拖拽图片到编辑区。Falcon还添加了Code、To-Do 语法，而且代码块还支持高亮以及行数标记
 - **ProPrompter V5.0.3**:一款专业的提词器软件
 - **MyEclipse V2017 CI 2 Mac破解版**：不必多言
@@ -163,7 +163,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - **Notability V2.9.3**：iPad 和 iPhone 上最为抢手的备注记录应用程序，现已登陆 Mac！可用于注释文稿、草拟想法、录制演讲、记录备注等。它将键入、手写、录音和照片结合在一起，便于您根据需要创建相应的备注
 - **Navicat Premium V12.1.16**：Navicat Premium for mac是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习
 - **RightFont V5.3.3(2382)**：Mac OS X 上一款非常轻巧的字体管理工具，目前已经完成了与 PhotoShop、Sketch 两大设计应用的集成
-- ![](https://img.shields.io/badge/推荐安装等级-★★★★★-brightgreen.svg) **Adobe Acrobat Pro DC V2019.010.20098**：强大的PDF编辑软件
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) **Adobe Acrobat Pro DC V2019.010.20098**：强大的PDF编辑软件
 - **Zoc Terminal V7.22.7**：ZOC Terminal 是一款Mac上强大的SSH/Telnet终端工具，相比系统自带的终端程序，ZOC Termina具有各种强大的功能
 - **Adobe Zii V4.1.7**：Adobe Zii是一款Mac平台上的Adobe系列软件激活工具
 ---
@@ -224,7 +224,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - 仙剑奇侠传5 mac移植版
 - Samorost 3（银河历险记3）V1.1
 - 里奥的秘密 V1.0
-- （我的世界）Minecraft V1.7.2整合(含Forge)
+- ![](https://img.shields.io/badge/推荐等级-★★★★★-brightgreen.svg) （我的世界）Minecraft V1.7.2整合(含Forge)
 - Call Of Duty:Black Ops 《使命召唤：黑色行动》 
 - Football Manager足球经理2018 V18.3.4 
 - Rise of the Tomb Raider™《古墓丽影：崛起》 V1.0.2
