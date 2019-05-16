@@ -284,10 +284,10 @@ chrome中下载baidudl插件，在百度云网页版要下载的文件页面点�
 公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
 
 ---
-**rss服务推荐**
-该rss服务个人已经使用一年有余，感觉不错，价格为月付9.9
-地址：https://xn--9iqx9sosjh0d.co/aff.php?aff=171
-进入选择rss套餐即可
+**rss服务推荐**  
+该rss服务个人已经使用一年有余，感觉不错，价格为月付9.9  
+地址：https://xn--9iqx9sosjh0d.co/aff.php?aff=171  
+进入选择rss套餐即可  
 ![](https://i.loli.net/2019/05/16/5cdcae186d60a76192.png)
 
 
