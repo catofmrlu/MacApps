@@ -1,9 +1,9 @@
 MacApps
 ---
-![](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-MAC%E6%B8%B8%E6%88%8F-brightgreen.svg)
-![](https://img.shields.io/badge/类型-MAC应用-orange.svg)
-![](https://img.shields.io/badge/类型-MAC屏保-red.svg)
-![](https://img.shields.io/badge/类型-MAC常见问题-blue.svg)
+![](https://img.shields.io/badge/包含-MAC游戏-brightgreen.svg)
+![](https://img.shields.io/badge/包含-MAC应用-orange.svg)
+![](https://img.shields.io/badge/包含-MAC屏保-red.svg)
+![](https://img.shields.io/badge/包含-MAC常见问题-blue.svg)
 ---
 注：
 > - 如有兼容及其它问题（链接失效等）请发email到lxxlxx8888@outlook.com告知，会及时处理
