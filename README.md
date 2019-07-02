@@ -258,7 +258,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 
 
 ---
-### 3. mac下载站推荐
+### 3. mac常用下载站
 
 - 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
 - Xclient（免费，资源丰富，历史版本下载，极力推荐）：http://xclient.info
