@@ -231,6 +231,10 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 - Cities: Skylines Green Cities《大都会：天际线》
 - Alpha Omega 1.2 考验人英语词汇量的益智游戏
 - Angry Birds Seasons （愤怒的小鸟）假日季版  V4.1.0
+- 星际争霸1
+- 三国志13：威力加强版
+- 三国志9威力加强版
+- 三国志11威力加强版
 
 ---
 ### 屏保插件
