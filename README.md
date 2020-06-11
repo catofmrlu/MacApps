@@ -20,8 +20,7 @@ app渐进更新记录详见commit列表：[点我直达](https://github.com/lxxl
 ---
 ### 1. 应用类：
 
-应用类下载地址：链接：https://pan.baidu.com/s/1xBlZYi9C6Sjfm11tyNOhQw 
-提取码：r6yg
+应用类下载地址：鉴于百度已经完全封禁资源类分享链接，各位需要mac软件的同学可以百度云账号：**福布斯时刻** 来联系我，我会及时分享给各位。
 > - 如安装时需要密码：maccrack.cn 或 xclient.info
 > - 已经开始整理app版本，部分已经支持历史版本
 
