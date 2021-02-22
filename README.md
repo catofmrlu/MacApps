@@ -286,8 +286,3 @@ chrome中下载baidudl插件，在百度云网页版要下载的文件页面点�
 公测版下载教程：http://blog.csdn.net/lxxlxx888/article/details/74502725
 
 ---
-**机场推荐：**
-本机场适合一般人群使用，低至一年1t流量只要10块钱。
-- 20块一年，每月100g，三个设备
-- 50块一年，每月1t，五个设备
-地址：https://dabai.icu/auth/register?code=483Y
