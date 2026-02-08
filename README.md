@@ -6,7 +6,7 @@ MacApps
 ![](https://img.shields.io/badge/包含-MAC常见问题-blue.svg)
 ---
 注：
-> - 如有兼容及其它问题（链接失效等）请发email到lxxlxx8888@outlook.com告知，会及时处理
+> - 如有兼容及其它问题（链接失效等）请发email到catofmrlu@foxmail.com告知，会及时处理
 > - 本项目会在可预见的未来时间内不断更新
 > - 破解软件不建议升级，以防出现破解失效
 
